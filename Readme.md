@@ -51,7 +51,6 @@ Where `p1` to `p6` represent the eye landmark points obtained from the face mesh
 
 ```bash
 git clone https://github.com/GCJ0310/Drowsiness_Detection.git
-cd drowsiness-detection
 ```
 
 2. Install the dependencies:
